@@ -11,3 +11,4 @@ I want to share my favourite pokémons with you.
 3. [**Bulbasaur**](bulbasaur.md)
    - Grass/Poison-type with a plant bulb on its back.
 
+There are also other pokemons that i like.
