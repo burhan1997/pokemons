@@ -11,4 +11,11 @@ I want to share my favourite pokémons with you.
 3. [**Bulbasaur**](bulbasaur.md)
    - Grass/Poison-type with a plant bulb on its back.
 
-There are also other pokemons that i like.
+I want to share also my other favourite pokémons with you.
+
+1. [**Jigglypuff**](jigglypuff.md)
+  - Fairy-type known for its soothing songs.
+
+   
+2. [**Togepi**](togepi.md)
+   - Fairy-type Pokémon with a shell and mystical abilities.
